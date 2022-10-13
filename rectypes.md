@@ -37,3 +37,9 @@ void rotate_left(int s) {
   reverse(0, len - 1);
 }
 ```
+
+## ADT
+
+If a rectype has deconstructors, it is an Algebraic Data Type.
+
+https://stanford-cs242.github.io/f19/lectures/03-2-algebraic-data-types.html
