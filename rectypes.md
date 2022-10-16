@@ -43,3 +43,5 @@ void rotate_left(int s) {
 If a rectype has deconstructors, it is an Algebraic Data Type.
 
 https://stanford-cs242.github.io/f19/lectures/03-2-algebraic-data-types.html
+
+For a more detailed theory, read Coq Inductive types and recursive functions - Theory of inductive definitions - [Well-formed inductive definitions](https://coq.inria.fr/refman/language/core/inductive.html#well-formed-inductive-definitions).
